@@ -1,4 +1,4 @@
-# **IIT kanpur Traffic Analysis - Vehicle Detection and Counting**
+# **IIT Kanpur Traffic Analysis - Vehicle Detection and Counting**
 **Project Description :-** In this project I have analysed the  different types of vehicles running in IITK campus. In this analysis I basically performed the vehical detection and tracking along with counted the number of incoming and outgoing vehicle in campus.
 
 **Datset Description :-** I collected the data of IIT kanpur traffic from diffrent areas. In dataset I used the traffic videos, further converted into frames which are around 8000 images in number. Dataset basically contain five types of vehicle i.e.
